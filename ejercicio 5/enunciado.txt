@@ -1,0 +1,7 @@
+---------------------------------
+	Ejercicio 5:
+---------------------------------
+
+Vamos a realizar algo conocido como un menu acordeon. Esto consiste en un menu desplegable que se
+comprime y se amplia haciendo click en el elemento. Para ello recomendaria investigar antes como 
+hacerse. En este ejercicio usaremos de nuevo unicamente css y html.

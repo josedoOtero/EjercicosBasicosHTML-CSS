@@ -1,0 +1,11 @@
+---------------------------------
+	Ejercicio 1:
+---------------------------------
+
+Realizaremos un pequeño pequeño menu en la parte superior 
+de la pantalla. Este menu debe tener minimo de 3 categorias
+debera intentar que sea reponsive, y aparte de de las 3 categorias 
+o mas debera tener un titulo y una imagen. Ademas el menu debera 
+siempre estar en la parte superior de la pantalla, aunque bajes 
+el scrol. Ademas de eso los botones nel menu es decir las 3 categorias
+deben conducir a paginas distintas que tendra el mismo menu.

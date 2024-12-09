@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+}
+
+.contenedor_tarjetas{
+    display: flex;
+    max-height: 500px;
+}
+
+.tarjeta{
+    margin-inline: auto;
+    width: 25%;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    height: 100%;
+    height: auto;
+    box-shadow: 6px 15px 10px rgba(0, 0, 0, 0.575);
+    overflow: hidden;
+}
+
+.tarjeta img{
+    border-style: solid;
+    border-radius: 50%;
+    width: 45%;
+    border-color: rgba(65, 64, 64, 0.664);
+}
+
+.naranja{
+    background: linear-gradient(to bottom, rgb(247, 210, 91), rgb(179, 118, 6));
+}
+
+.azul{
+    background: linear-gradient(to bottom, rgb(14, 158, 253), rgb(0, 84, 180));
+}
+
+.verde{
+    background: linear-gradient(to bottom, rgb(145, 230, 128), rgb(21, 155, 43));
+}

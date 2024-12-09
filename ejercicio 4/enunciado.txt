@@ -1,0 +1,6 @@
+---------------------------------
+	Ejercicio 4:
+---------------------------------
+Para este proyecto realizaremos un cartel publicitario que contendra un boton
+que reconduzca a otro pagina. Intenta usar varios elementos decorativos. Como
+ya es costumbre todo queda a libre interpretacion.

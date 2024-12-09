@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1, a {
+    color: rgb(246, 251, 255);
+    text-decoration: none;
+}
+
+h1 {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+.menu {
+    background-color: rgba(0, 0, 0, 0.753);
+    position: sticky;
+    top: 0;
+    margin: 0;
+    padding: 10px;
+    box-shadow: 200px rgb(20, 20, 20);
+}
+
+.menu_adorno {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.menu_adorno img {
+    height: 2em; 
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.menu_botones {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px; 
+}
+
+.boton_menu {
+    flex: 1;
+    border: solid 1px aliceblue;
+    padding: 3px 0 7px;
+}
+
+.boton_selecionado_menu {
+    background-color: aliceblue;
+    color: black;
+}
+
+.boton_menu:hover {
+    background-color: aliceblue;
+    color: black;   
+}

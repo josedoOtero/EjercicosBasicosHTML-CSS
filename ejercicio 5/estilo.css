@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(78, 72, 72);
+}
+
+h1{
+    color: aliceblue;
+    text-shadow: 6px 6px 6px black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p{color: aliceblue;}
+
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-inline: 10%;
+}
+
+summary{
+    background: linear-gradient(to bottom, rgb(41, 40, 40), rgba(8, 8, 8, 0.76));
+    padding: 20px;
+    color: aliceblue;
+    text-decoration: none;
+    list-style-type: none;
+    border-top-left-radius: 30px;
+}
+
+details p{
+    padding: 20px;
+    border: 2px solid rgba(26, 26, 26, 0.836);
+    border-end-end-radius: 30px;
+}

@@ -1,0 +1,7 @@
+---------------------------------
+	Ejercicio 2:
+---------------------------------
+
+Deberas crear tarjetas de varios personajes o productos, el diseño y 
+detalles es a elecion de tuya, pero debera contener minimo, una imagen,
+un texto y un titulo.
